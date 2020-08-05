@@ -1,9 +1,7 @@
-# invidious-redirect
+# cloudtube-redirect
 
-# Now redirects to invidio.us instead of hooktube - see Hooktube changelog for details
+# Now redirects to cloudtube.moe instead of invidio.us
 
-A (very) small WebExtension to redirect YouTube links to Invidious.
-
-I am not affiliated with YouTube or Invidious.
+A (very) small WebExtension to redirect YouTube links to CloudTube.
 
 This work is released into the public domain. See UNLICENSE for details.
